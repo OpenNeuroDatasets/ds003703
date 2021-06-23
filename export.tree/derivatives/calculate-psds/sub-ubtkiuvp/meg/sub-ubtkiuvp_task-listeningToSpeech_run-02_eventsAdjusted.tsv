@@ -1,0 +1,25 @@
+onset	duration	trial_type	value	sample	memory_task_sentence_1	memory_task_response_1	memory_task_sentence_2	memory_task_response_2	sentences_start_ms
+6.903999999999999	0.0	dative 1-3	1	6788	fake	fake	real	real	2235
+42.824999999999996	0.0	genitive 2-2	2	42712	real	real	fake	fake	2074
+78.396	0.0	genitive 2-2	2	78281	fake	fake	real	real	2144
+114.457	0.0	dative 1-3	1	114344	fake	real	real	fake	2237
+149.522	0.0	dative 1-3	1	149405	real	fake	fake	real	2110
+185.495	0.0	genitive 2-2	2	185377	fake	real	real	fake	2239
+220.107	0.0	genitive 2-2	2	219998	fake	fake	real	real	2168
+255.837	0.0	dative 1-3	1	255718	real	real	fake	real	2147
+291.774	0.0	dative 1-3	1	291651	fake	real	real	real	1922
+327.13599999999997	0.0	genitive 2-2	2	327022	fake	fake	fake	real	2254
+362.65500000000003	0.0	genitive 2-2	2	362545	real	real	real	real	1917
+398.176	0.0	dative 1-3	1	398057	fake	fake	fake	real	1932
+473.28	0.0	genitive 2-2	2	473159	fake	fake	fake	real	2116
+509.201	0.0	dative 1-3	1	509089	fake	fake	real	fake	1942
+545.296	0.0	genitive 2-2	2	545177	real	fake	fake	real	2256
+580.851	0.0	dative 1-3	1	580731	real	fake	fake	real	2173
+616.37	0.0	genitive 2-2	2	616259	fake	fake	fake	fake	2147
+652.43	0.0	dative 1-3	1	652322	real	real	real	fake	2034
+688.281	0.0	genitive 2-2	2	688159	real	fake	fake	real	2276
+723.8879999999999	0.0	dative 1-3	1	723780	real	fake	real	real	2146
+759.302	0.0	genitive 2-2	2	759186	fake	real	fake	real	2278
+794.368	0.0	dative 1-3	1	794256	real	fake	fake	fake	2261
+830.5339999999999	0.0	dative 1-3	1	830417	real	fake	fake	fake	2235
+866.052	0.0	genitive 2-2	2	865938	real	fake	fake	real	2114
